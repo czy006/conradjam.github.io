@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2023/01/31/Flink-1-12-%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E6%96%B0%E7%89%B9%E6%80%A7/</loc>
+    <loc>https://conradjam.github.io/2021/08/25/flink/Flink-1-12-%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E6%96%B0%E7%89%B9%E6%80%A7/</loc>
     
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-02-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,13 +12,34 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2023-01-31</lastmod>
+    <loc>https://conradjam.github.io/</loc>
+    <lastmod>2023-02-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://conradjam.github.io/tags/Flink/</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://conradjam.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://conradjam.github.io/categories/Flink/</loc>
+    <lastmod>2023-02-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

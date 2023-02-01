@@ -1,2 +1,5 @@
-http://example.com/2023/01/31/Flink-1-12-%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E6%96%B0%E7%89%B9%E6%80%A7/
-http://example.com/
+https://conradjam.github.io/2021/08/25/flink/Flink-1-12-%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E6%96%B0%E7%89%B9%E6%80%A7/
+https://conradjam.github.io/
+https://conradjam.github.io/tags/Flink/
+https://conradjam.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/
+https://conradjam.github.io/categories/Flink/
